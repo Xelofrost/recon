@@ -1,5 +1,5 @@
 #!/bin/bash
-bash ./reset.sh
+#bash ./reset.sh
 figlet -f slant ILLOWARE
 if [ -z "$1" ]; then
     echo "Error: No enviaste un dominio"
